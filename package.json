@@ -1,0 +1,36 @@
+{
+  "name": "@pawbot/image-utils",
+  "version": "1.0.0",
+  "description": "Image utilities for Paw Bot",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint src",
+    "eslint:fix": "eslint src --fix",
+    "test": "node test"
+  },
+  "author": "Hagen Hyena <hagen@paw.bot>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "phin": "^3.5.1",
+    "sharp": "^0.28.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OfficialPawBot/image-utils.git"
+  },
+  "keywords": [
+    "image",
+    "utilty",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/OfficialPawBot/image-utils/issues"
+  },
+  "homepage": "https://github.com/OfficialPawBot/image-utils#readme",
+  "devDependencies": {
+    "eslint": "^7.25.0"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
