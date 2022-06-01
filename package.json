@@ -12,7 +12,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "phin": "^3.5.1",
-    "sharp": "^0.28.1"
+    "sharp": "^0.30.5"
   },
   "repository": {
     "type": "git",
